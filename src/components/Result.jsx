@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 const Result = ({ value }) => {
-    console.log("result")
+    //console.log("result")
     return (
         <div className="result">
             <span>{value}</span>
