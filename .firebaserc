@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "udemy-react-calc-1",
+    "udemy-react-calculator": "udemy-react-calc-1"
+  }
+}
